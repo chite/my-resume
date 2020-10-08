@@ -1,0 +1,452 @@
+[
+  {
+    "main": {
+      "title": "Hello, I am Chen, Yu-Cheng.",
+      "name": "Chen, Yu-Cheng",
+      "image": "profilepic.png",
+      "bio": "My dream is to be a front-end engineer.\nIn my second year of college, I took a programming course, the teacher taught us the basic concept of programming and some techniques. In this course, I realized programming is powerful, also, it makes our lives more convenient. So I applied what I had learned to make a visual novel in another class, which was built with Processing and JavaScript, and this project was well-received by external assessors, and our team won second place.\nThe experience above inspired me to be an engineer, so I started to learn front-end development, I was not only learned it from school, but also from books and technical documents on the Internet. To make use of what I had learned, I applied for an internship in my third summer vacation, learning how to use React.js and developing a data service system with backend engineers. In my senior year, I was an intern in another company, helping them maintain the e-commerce platform, besides, I built a map for the Singaporeans to pick up with Vue.js. Besides, I took courses such as data structure and algorithm to improve my ability.",
+      "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+      "email": "a813441951@gmail.com",
+      "phone": "0956963523",
+      "address": {
+        "city": "Hsinchu City",
+        "state": "Taiwan"
+      },
+      "social": [
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=100000436176229",
+          "className": "fab fa-facebook-f"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/chite",
+          "className": "fab fa-github"
+        },
+        {
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/yu-cheng-chen-7b1084176",
+          "className": "fab fa-linkedin-in"
+        }
+      ]
+    },
+    "resume": {
+      "education": [
+        {
+          "key": 2,
+          "school": "National Chengchi University",
+          "degree": "Program in Digital Content & Technologies",
+          "graduated": "June 2020",
+          "description": "In my third year of college, I applied for double majors. In this department, I understood how to make a Bluetooth boat by Arduino, video games built with JavaScript, etc."
+        },
+        {
+          "key": 1,
+          "school": "National Chengchi University",
+          "degree": "Chinese",
+          "graduated": "June 2020",
+          "description": "I learned the appreciation and exploration of traditional Chinese literature in college."
+        }
+      ],
+      "skills": [
+        {
+          "name": "HTML, SCSS",
+          "level": "80%",
+          "description": "Understanding most HTML tags and CSS, I can build a responsive webpage with pure HTML and SCSS."
+        },
+        {
+          "name": "JavaScript",
+          "level": "60%",
+          "description": "Proficient in the central concept of JavaScript like closure and hoist, I am also familiar with common ES6 features and beyond."
+        },
+        {
+          "name": "TypeScript",
+          "level": "40%",
+          "description": "Having the ability to use some common data types, declarations to add static type checking in a project."
+        },
+        {
+          "name": "React.js",
+          "level": "80%",
+          "description": "My several projects were built with React.js, so I understand the concept of this framework such as lifecycle, JSX syntax and hooks."
+        },
+        {
+          "name": "Redux, React Router",
+          "level": "50%",
+          "description": "Basic knowledge of them, having the ability to build a SPA website with them."
+        },
+        {
+          "name": "Vue, Vuex, Vue Router",
+          "level": "65%",
+          "description": "Knowing the template syntax and its APIs, I also have studied its design principle before."
+        },
+        {
+          "name": "Webpack",
+          "level": "40%",
+          "description": "I can compose necessary loaders to build a React.js project."
+        },
+        {
+          "name": "Jest, Enzyme",
+          "level": "60%",
+          "description": "Can unit testing a React project with Jest and Enzyme, and counting its coverage."
+        },
+        {
+          "name": "PHP",
+          "level": "50%",
+          "description": "Having the ability to create API for front-end interface to get data, and I use PDO to connect a database."
+        },
+        {
+          "name": "MySQL",
+          "level": "30%",
+          "description": "Having experience in managing MySQL through phpMyAdmin, besides, I know how to compose basic query statements."
+        },
+        {
+          "name": "MongoDB",
+          "level": "20%",
+          "description": "Basic knowledge of NoSQL and MongoDB syntax."
+        },
+        {
+          "name": "Git",
+          "level": "40%",
+          "description": "Understanding the basic concept of git and having the ability to work with it on the command line."
+        },
+        {
+          "name": "GIMP, Photoshop, Illustrator, After Effect",
+          "level": "50%",
+          "description": "Knowing how to make adjustments to photos, designing simple illustrations and making animations to enrich webpages."
+        }
+      ],
+      "work": [
+        {
+          "title": "ACCESS Co., Ltd",
+          "job": "Front-End Developer Intern",
+          "duration": "March 2020 - June 2020",
+          "description": "Selling and maintaining the products on the e-commerce platform, the owners include Perfect One, Calpis and JIMOS.\nHelping create the webpage of the automated tool with Vue.js and Vuetify, which is for STAR TO ASIA company.\nBuilding the map with Vue and OpenStreetMap, for the Singaporean search where can they take the goods.\nBuild an automated tool with Vue.js and Puppeteer, for the company members to cancel bad orders.\nUnit testing the company's latest shopping system with Jest and Vue Test Utils."
+        },
+        {
+          "title": "Xnet Inc",
+          "job": "Front-End Developer Intern",
+          "duration": "July 2019 - October 2019",
+          "description": "Helping front-end engineer to build Xnet Analytics system for the company to get funding from the SBIR program.\nMaking webpages for advertising and selling the new book of the company.\nI took a meeting minutes of a meeting.\nDuring the internship, I used React, React Router, jQuery and ECharts, etc."
+        }
+      ],
+      "activity": [
+        {
+          "title": "Happy Coding",
+          "job": "Tester",
+          "duration": "July 2020",
+          "description": "Watching the online course and writing insights and the bug report."
+        },
+        {
+          "title": "Web Development course",
+          "job": "Assistant",
+          "duration": "February 2020 - June 2020",
+          "description": "Helping the teacher to schedule the course.\nHelping the teacher to invigilate in the final exam.\nCommenting and scoring in the final report."
+        },
+        {
+          "title": "Participating in the USR Project",
+          "job": "Teaching Assistant",
+          "duration": "May 2019 - June 2019",
+          "description": "Doing some preparation such as connecting with teachers at MingDao elementary school and checking for devices.\nHelping the teacher to teach APP Inventor in class."
+        },
+        {
+          "title": "Department Periodical",
+          "job": "Leader of Editorial Team",
+          "duration": "October 2017 - March 2018",
+          "description": "Teaching teammates how to operate Adobe Indesign, \nGiving task assignments and giving them feedback.\nTo check every edition of the Chinese department periodical."
+        }
+      ],
+      "certificate": [
+        {
+          "title": "TOEIC",
+          "score": "855",
+          "link": "https://drive.google.com/file/d/1ym-Vk--8bU-r5KhMARnKsElGwN4qhngL/view?usp=sharing"
+        },
+        {
+          "title": "(Microsoft) Exam 70-480: Programming in HTML5 with JavaScript and CSS3",
+          "score": "900",
+          "link": "https://drive.google.com/file/d/1cQVUMDmp8zcUu8AgMdOGVVJ_c9UJjoN6/view?usp=sharing"
+        }
+      ]
+    },
+    "portfolio": [
+      {
+        "title": "Map of Singapore",
+        "detail": "The map built with Vue and OpenStreetMap, for the Singaporean search where can they take the goods. (Pls click the Map button in Receive Method part.) ",
+        "url": "https://www.manara.asia/sg/MapTest/?=tr_Memo4",
+        "img": "work7.png"
+      },
+      {
+        "title": "AVIOT TE-D01d mk2",
+        "detail": "The responsive webpage built with pure CSS, it is used to advertise AVIOT latest headset.",
+        "url": "https://aviot.com.tw/te-d01d-mk2/",
+        "img": "work10.png"
+      },
+      {
+        "title": "My Teammate is AI",
+        "detail": "I built this webpage with Bootstrap which was made for advertising and selling the company latest book.",
+        "url": "https://www.ai-sportthings.com/%E6%88%91%E7%9A%84%E9%9A%8A%E5%8F%8B%E6%98%AFAI",
+        "img": "work2.png"
+      },
+      {
+        "title": "Graduation Project-Romeo and Cinderella",
+        "detail": "Our team members made the puzzle webpage, using jQuery, React and BootStrap, etc.",
+        "url": "https://chite.github.io/dct_project/desktop/hackTool.html",
+        "img": "work8.png"
+      },
+      {
+        "title": "Medicine in One Touch",
+        "detail": "The webpage was built with React.js and Redux, people can search for the medicare programs of Taipei and Xinbei.",
+        "url": "https://medicineneeded.000webhostapp.com/",
+        "img": "work3.png"
+      },
+      {
+        "title": "Ghost Story in Chengchi University",
+        "detail": "This game was built with jQuery and PHP.",
+        "url": "https://chite.000webhostapp.com/login1.php",
+        "img": "work4.png"
+      },
+      {
+        "title": "I'm Just a Puyuma Driver",
+        "detail": "Our team hopes players can stay focused on this issue when playing the game being built with Create.js.",
+        "url": "https://youtu.be/yRM-1Z51mhs",
+        "img": "work6.png"
+      },
+      {
+        "title": "The F2E",
+        "detail": "I did the projects which were referred to THE F2E website released in 2019, trying frameworks and libraries such as Vue3, React, and Angular.",
+        "url": "https://chite.github.io/w8/dist/#/",
+        "img": "work9.png"
+      },
+      {
+        "title": "Paint",
+        "detail": "The online paint tool was built with Canvas API.",
+        "url": "https://chite.github.io/Web_HW/hw4/hw4.html",
+        "img": "work5.png"
+      }
+    ]
+  },
+  {
+    "main": {
+      "title": "您好，我是陳昱丞",
+      "name": "陳昱丞",
+      "image": "profilepic.png",
+      "bio": "我的夢想，是成為一位前端工程師。\n大二上，我修了一門程式設計課，課程中以 Processing 學習程式設計的概念和技術。從中我體悟程式的強大功能和應用層面的廣泛，因此我在一堂通識的專案中，將Processing和JavaScript結合，設計一個網頁版的視覺小說型遊戲，並於期末展演時獲得校外評審的讚賞，在校外評審獎中也得到第二名的成績。\n上述的經驗啟發我的工程師夢想，於是我開始學習前端相關技術，除了修習學校的數位內容學程的相關課程外，私底下也會研讀書籍和蒐集網路資料來充實自己。為了應用所學並結合實務，我在大三暑假開始實習，使用 React.js 與後端工程師開發數據服務系統。大四學期間，在另一間公司協助電商平台的維護，以及用 Vue.js 製作新加坡取貨地圖。此外，為了強化自身技能，我也去修習政大資科系的資料結構、演算法課程，努力朝著成為前端工程師的夢想邁進。",
+      "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+      "email": "a813441951@gmail.com",
+      "phone": "0956963523",
+      "address": {
+        "city": "新竹市",
+        "state": "台灣"
+      },
+      "social": [
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=100000436176229",
+          "className": "fab fa-facebook-f"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/chite",
+          "className": "fab fa-github"
+        },
+        {
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/yu-cheng-chen-7b1084176",
+          "className": "fab fa-linkedin-in"
+        }
+      ]
+    },
+    "resume": {
+      "education": [
+        {
+          "key": 2,
+          "school": "國立政治大學",
+          "degree": "數位內容與科技學士學位學程",
+          "graduated": "2020/6",
+          "description": "大三時我申請此學程。課程中除了教導對科技和藝術相關的知識，還有許多專案，故我學會用 Maya 建模、使用 After Affect 做動畫、 Arduino 做藍芽遙控船，以及用 JavaScript 做網頁遊戲。"
+        },
+        {
+          "key": 1,
+          "school": "國立政治大學",
+          "degree": "中文系",
+          "graduated": "2020/6",
+          "description": "在大學中我學習文學鑑賞和如何對古文進行章句、聲韻和詞彙的研究。"
+        }
+      ],
+      "skills": [
+        {
+          "name": "HTML, SCSS",
+          "level": "80%",
+          "description": "熟悉 HTML 標籤和 CSS 語法，可徒手刻響應式網頁。"
+        },
+        {
+          "name": "JavaScript",
+          "level": "60%",
+          "description": "理解核心概念如推升和閉包，也熟悉常用的 ES6 以上的語法。"
+        },
+        {
+          "name": "TypeScript",
+          "level": "40%",
+          "description": "能使用常用的資料型態、類型宣告，以對專案進行靜態型別檢查。"
+        },
+        {
+          "name": "React.js",
+          "level": "80%",
+          "description": "我的幾項專案是用 React 打造，故熟悉其生命週期、JSX 語法和 hooks。"
+        },
+        {
+          "name": "Redux, React Router",
+          "level": "60%",
+          "description": "有基本觀念， 可以使用這些函式庫建立 SPA 頁面。"
+        },
+        {
+          "name": "Vue, Vuex, Vue Router",
+          "level": "65%",
+          "description": "理解其模板語法和 API，有稍微研究其核心原理。"
+        },
+        {
+          "name": "Webpack",
+          "level": "40%",
+          "description": "有能力搭配所需要的 loaders 來啟動 React 專案。"
+        },
+        {
+          "name": "Jest, Enzyme",
+          "level": "60%",
+          "description": "能使用 Jest 進行基本單元測試和計算覆蓋率，並配合 Enzyme 將 React.js 轉為 HTML 結構以測試"
+        },
+        {
+          "name": "PHP",
+          "level": "50%",
+          "description": "可以做 API 供前端串接資料，並使用 PDO 與資料庫做連接。"
+        },
+        {
+          "name": "MySQL",
+          "level": "30%",
+          "description": "過去使用 phpMyAdmin 操作，對於 SQL 新、修、刪和複雜的查詢語法有一定的了解。"
+        },
+        {
+          "name": "MongoDB",
+          "level": "20%",
+          "description": "對 NoSQL 和其語法有粗淺認識和短暫操作經驗。"
+        },
+        {
+          "name": "Git",
+          "level": "40%",
+          "description": "了解其基本觀念，可於終端機上操作。"
+        },
+        {
+          "name": "GIMP, Photoshop, Illustrator, After Effect",
+          "level": "50%",
+          "description": "可以透過這些軟體來修圖、畫插圖和做動畫，以此點綴網站。"
+        }
+      ],
+      "work": [
+        {
+          "title": "日商 愛可信（ACCESS）",
+          "job": "前端工程師實習生",
+          "duration": "2020/3 - 2020/6",
+          "description": "協助電商平台的購物車商品上架與後續維護，業主涵蓋新日本製藥、可爾必思、JIMOS 等。\n使用 Vue 和 Vuetify 協助刻製自動化工具的頁面，以供亞星通（Star to Asia）公司使用。\n使用 Vue 和 OpenStreetMap 製作地圖，供新加坡的客戶查詢取貨地點。\n使用 Node.js 的 Puppeteer 自動化操作 CROS 系統取消訂單。\n使用 Jest 和 Vue Test Utils 對購物車進行單元測試。"
+        },
+        {
+          "title": "智媒科技股份有限公司",
+          "job": "前端工程師實習生",
+          "duration": "2019/7 - 2019/10",
+          "description": "協助打造「智媒數據顧問服務」系統以取得 SBIR 計劃的資金。\n為公司的新書「我的隊友是AI」撰寫宣傳頁面。\n於公司會議時負責撰寫會議記錄。\n實習期間使用 React、React Router、jQuery、ECharts 等框架和函式庫。"
+        }
+      ],
+      "activity": [
+        {
+          "title": "快樂學程式",
+          "job": "早期測試員",
+          "duration": "2020/7",
+          "description": "閱覽「運用前後端 Javascript 熱門代碼庫 React 與流行框架 Next.js 完成一個網站 」線上課程。\n撰寫心得和錯誤回報。"
+        },
+        {
+          "title": "政大 Ｗeb程式設計 課程",
+          "job": "助手",
+          "duration": "2020/2-2020/6",
+          "description": "協助教師進行課程規劃。\n協助期末上機考的監考工作。\n期末專案發表時進行講評和打分。"
+        },
+        {
+          "title": "政大 USR 計劃",
+          "job": "教學助理",
+          "duration": "2019/5 - 2019/6",
+          "description": "負責事前準備的工作，比如與國小方聯絡和課前設備檢查。\n老師授課時管理秩序，以及練習時間協助學生操作 APP Inventor。"
+        },
+        {
+          "title": "中文系系刊",
+          "job": "文編組組長",
+          "duration": "2017/10 - 2018/3",
+          "description": "開堂授課，教導組員學習 InDesign 並指派作業。\n分派組員進行文編任務，之後進行驗收和意見回饋。\n統整後負責每一個版本的檢查和修正。"
+        }
+      ],
+      "certificate": [
+        {
+          "title": "多益",
+          "score": "855",
+          "link": "https://drive.google.com/file/d/1ym-Vk--8bU-r5KhMARnKsElGwN4qhngL/view?usp=sharing"
+        },
+        {
+          "title": "(微軟) 測驗 70-480: Programming in HTML5 with JavaScript and CSS3",
+          "score": "900",
+          "link": "https://drive.google.com/file/d/1cQVUMDmp8zcUu8AgMdOGVVJ_c9UJjoN6/view?usp=sharing"
+        }
+      ]
+    },
+    "portfolio": [
+      {
+        "title": "新加坡取貨地圖",
+        "detail": "使用 Vue.js 和 Leaflet 製作，供新加坡用戶查詢取貨地點（請點選 Receive Method 的 Map ）。",
+        "url": "https://www.manara.asia/sg/MapTest/?=tr_Memo4",
+        "img": "work7.png"
+      },
+      {
+        "title": "AVIOT TE-D01d mk2",
+        "detail": "純 CSS 刻製的響應式網頁，為 AVIOT 行銷新款耳機。",
+        "url": "https://aviot.com.tw/te-d01d-mk2/",
+        "img": "work10.png"
+      },
+      {
+        "title": "我的隊友是 AI",
+        "detail": "為公司合作的新書「我的隊友是 AI」製作的宣傳和銷售網頁，使用到 Bootstrap。",
+        "url": "https://www.ai-sportthings.com/%E6%88%91%E7%9A%84%E9%9A%8A%E5%8F%8B%E6%98%AFAI",
+        "img": "work2.png"
+      },
+      {
+        "title": "畢製作品-羅密歐與仙杜瑞拉",
+        "detail": "與組員一起製作的解謎體驗網站，使用 jQuery、React、BootStrap等。",
+        "url": "https://chite.github.io/dct_project/desktop/hackTool.html",
+        "img": "work8.png"
+      },
+      {
+        "title": "醫療 e 點通",
+        "detail": "使用 React 和 Redux 製作的查詢網站，提供使用者查詢雙北的醫療方案。",
+        "url": "https://medicineneeded.000webhostapp.com/",
+        "img": "work3.png"
+      },
+      {
+        "title": "政大鬼故事",
+        "detail": "利用 jQuery 和 PHP 建立的政大鬼故事探索遊戲。",
+        "url": "https://chite.000webhostapp.com/login1.php",
+        "img": "work4.png"
+      },
+      {
+        "title": "我只是個普悠瑪司機",
+        "detail": "使用 Create.js 製作遊戲，藉此呼籲玩家能持續關注這項社會議題。",
+        "url": "https://youtu.be/yRM-1Z51mhs",
+        "img": "work6.png"
+      },
+      {
+        "title": "The F2E",
+        "detail": "依六角學院 THE F2E 2019 製作專案，當中嘗試 Vue3、React、Angular 等框架和函式庫",
+        "url": "https://chite.github.io/w8/dist/#/",
+        "img": "work9.png"
+      },
+      {
+        "title": "小畫家",
+        "detail": "使用 Canvas 製作的小畫家程式。",
+        "url": "https://chite.github.io/Web_HW/hw4/hw4.html",
+        "img": "work5.png"
+      }
+    ]
+  }
+]
