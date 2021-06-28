@@ -114,6 +114,15 @@
           "description": "Knowing how to make adjustments to photos, designing simple illustrations and making animations to enrich webpages."
         }
       ],
+      "employment": [
+        {
+          "title": "Coretronic Intelligent Robotics Corporation",
+          "job": "Front-End Developer",
+          "duration": "2021/3 - Present",
+          "description": "編寫無人機操作的網站介面，提供客戶、無人機飛手設定無人機自動飛行的路線。\n使用 Vue.js 和 Google Map，熟悉如何將兩者相互搭配與應用，如：Route Survey，藉由 API 取得歷史飛行紀錄（電池剩餘電量等），由高至低會將圖標渲染成綠色到紅色，並依序繪製在地圖上。\n使用 ApexCharts 製作圖表，如：MRP（Mountain Route Planning），將使用者設定的飛行路徑帶入圖表，並透過 Google Elevation API 取得沿路的山脈海拔高再繪於圖表上，透過圖表檢視飛行路線是否會撞山，使用者能一目了然。\n使用 Webpack 做前端模組管理，搭配使用 Airbnb 風格的 ESLint。CSS 的設計模式為 BEM。與後端串接的 API 風格為 Restful。另有使用 Git 做版控。"
+
+        }
+      ],
       "work": [
         {
           "title": "ACCESS Co., Ltd",
@@ -130,12 +139,6 @@
       ],
       "activity": [
         {
-          "title": "Happy Coding",
-          "job": "Tester",
-          "duration": "July 2020",
-          "description": "Watching the online course and writing insights and the bug report."
-        },
-        {
           "title": "Web Development course",
           "job": "Assistant",
           "duration": "February 2020 - June 2020",
@@ -146,12 +149,6 @@
           "job": "Teaching Assistant",
           "duration": "May 2019 - June 2019",
           "description": "Doing some preparation such as connecting with teachers at MingDao elementary school and checking for devices.\nHelping the teacher to teach APP Inventor in class."
-        },
-        {
-          "title": "Department Periodical",
-          "job": "Leader of Editorial Team",
-          "duration": "October 2017 - March 2018",
-          "description": "Teaching teammates how to operate Adobe Indesign, \nGiving task assignments and giving them feedback.\nTo check every edition of the Chinese department periodical."
         }
       ],
       "certificate": [
@@ -229,7 +226,7 @@
       "title": "您好，我是陳昱丞",
       "name": "陳昱丞",
       "image": "profilepic.png",
-      "bio": "我的夢想，是成為一位前端工程師。\n大二上，我修了一門程式設計課，課程中以 Processing 學習程式設計的概念和技術。從中我體悟程式的強大功能和應用層面的廣泛，因此我在一堂通識的專案中，將Processing和JavaScript結合，設計一個網頁版的視覺小說型遊戲，並於期末展演時獲得校外評審的讚賞，在校外評審獎中也得到第二名的成績。\n上述的經驗啟發我的工程師夢想，於是我開始學習前端相關技術，除了修習學校的數位內容學程的相關課程外，私底下也會研讀書籍和蒐集網路資料來充實自己。為了應用所學並結合實務，我在大三暑假開始實習，使用 React.js 與後端工程師開發數據服務系統。大四學期間，在另一間公司協助電商平台的維護，以及用 Vue.js 製作新加坡取貨地圖。此外，為了強化自身技能，我也去修習政大資科系的資料結構、演算法課程，努力朝著成為前端工程師的夢想邁進。",
+      "bio": "我是一名 Junior 前端工程師，有大約 4 個月的工作經驗，外加實習 8 個月。開發上使用過 Vue.js、React.js、jQuery，目前主要使用 Vue.js。\n我從大學二年級接觸程式語言，並修習第二主修——數位內容學程——修習程式設計和網頁設計的相關課程，私下也會研讀書籍和蒐集網路資料來充實自己。為了應用所學並結合實務，我在大三暑假開始實習，使用 React.js 與後端工程師開發數據服務系統。大四學期間，在另一間公司協助電商平台的維護，以及用 Vue.js 製作新加坡取貨地圖。\n等待兵役的期間，我開始投遞履歷，最終進入中光電智能機器人擔任前端工程師。工作中我使用 Vue.js，外加 ApexCharts 和 Google Map 等套件。開發上與後端工程師、UI 設計師同仁討論、相互合作，協力打造無人機操作系統。",
       "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
       "email": "a813441951@gmail.com",
       "phone": "0956963523",
@@ -272,71 +269,12 @@
           "description": "在大學中我學習文學鑑賞和如何對古文進行章句、聲韻和詞彙的研究。"
         }
       ],
-      "skills": [
+      "employment": [
         {
-          "name": "HTML, SCSS",
-          "level": "80%",
-          "description": "熟悉 HTML 標籤和 CSS 語法，可徒手刻響應式網頁。"
-        },
-        {
-          "name": "JavaScript",
-          "level": "60%",
-          "description": "理解核心概念如推升和閉包，也熟悉常用的 ES6 以上的語法。"
-        },
-        {
-          "name": "TypeScript",
-          "level": "40%",
-          "description": "能使用常用的資料型態、類型宣告，以對專案進行靜態型別檢查。"
-        },
-        {
-          "name": "React.js",
-          "level": "80%",
-          "description": "我的幾項專案是用 React 打造，故熟悉其生命週期、JSX 語法和 hooks。"
-        },
-        {
-          "name": "Redux, React Router",
-          "level": "60%",
-          "description": "有基本觀念， 可以使用這些函式庫建立 SPA 頁面。"
-        },
-        {
-          "name": "Vue, Vuex, Vue Router",
-          "level": "65%",
-          "description": "理解其模板語法和 API，有稍微研究其核心原理。"
-        },
-        {
-          "name": "Webpack",
-          "level": "40%",
-          "description": "有能力搭配所需要的 loaders 來啟動 React 專案。"
-        },
-        {
-          "name": "Jest, Enzyme",
-          "level": "60%",
-          "description": "能使用 Jest 進行基本單元測試和計算覆蓋率，並配合 Enzyme 將 React.js 轉為 HTML 結構以測試"
-        },
-        {
-          "name": "PHP",
-          "level": "50%",
-          "description": "可以做 API 供前端串接資料，並使用 PDO 與資料庫做連接。"
-        },
-        {
-          "name": "MySQL",
-          "level": "30%",
-          "description": "過去使用 phpMyAdmin 操作，對於 SQL 新、修、刪和複雜的查詢語法有一定的了解。"
-        },
-        {
-          "name": "MongoDB",
-          "level": "20%",
-          "description": "對 NoSQL 和其語法有粗淺認識和短暫操作經驗。"
-        },
-        {
-          "name": "Git",
-          "level": "40%",
-          "description": "了解其基本觀念，可於終端機上操作。"
-        },
-        {
-          "name": "GIMP, Photoshop, Illustrator, After Effect",
-          "level": "50%",
-          "description": "可以透過這些軟體來修圖、畫插圖和做動畫，以此點綴網站。"
+          "title": "中強光電智能機器人",
+          "job": "前端工程師",
+          "duration": "2021/3 - Present",
+          "description": "編寫無人機操作的網站介面，提供客戶、無人機飛手設定無人機自動飛行的路線。\n依照 UI 設計師的設計稿製作網頁，與後端工程師討論如何開設 API，彼此緊密合作來開發每項功能。\n使用 Vue.js 和 Google Map，熟悉如何將兩者相互搭配與應用，實作功能如：Route Survey，藉由 API 取得歷史飛行紀錄（電池剩餘電量等），由高至低會將圖標渲染成綠色到紅色，並依序繪製在地圖上。\n使用 ApexCharts 製作圖表，如：MRP（Mountain Route Planning），將使用者設定的飛行路徑帶入圖表，並透過 Google Elevation API 取得沿路的山脈海拔高再繪於圖表上，透過圖表檢視飛行路線是否會撞山。\n使用 Webpack 做前端模組管理，搭配使用 Airbnb 風格的 ESLint。CSS 的設計模式為 BEM。與後端串接的 API 風格為 Restful。另有使用 Git 做版控。"
         }
       ],
       "work": [
@@ -355,12 +293,6 @@
       ],
       "activity": [
         {
-          "title": "快樂學程式",
-          "job": "早期測試員",
-          "duration": "2020/7",
-          "description": "閱覽「運用前後端 Javascript 熱門代碼庫 React 與流行框架 Next.js 完成一個網站 」線上課程。\n撰寫心得和錯誤回報。"
-        },
-        {
           "title": "政大 Ｗeb程式設計 課程",
           "job": "助手",
           "duration": "2020/2-2020/6",
@@ -371,12 +303,6 @@
           "job": "教學助理",
           "duration": "2019/5 - 2019/6",
           "description": "負責事前準備的工作，比如與國小方聯絡和課前設備檢查。\n老師授課時管理秩序，以及練習時間協助學生操作 APP Inventor。"
-        },
-        {
-          "title": "中文系系刊",
-          "job": "文編組組長",
-          "duration": "2017/10 - 2018/3",
-          "description": "開堂授課，教導組員學習 InDesign 並指派作業。\n分派組員進行文編任務，之後進行驗收和意見回饋。\n統整後負責每一個版本的檢查和修正。"
         }
       ],
       "certificate": [
@@ -389,6 +315,63 @@
           "title": "(微軟) 測驗 70-480: Programming in HTML5 with JavaScript and CSS3",
           "score": "900",
           "link": "https://drive.google.com/file/d/1cQVUMDmp8zcUu8AgMdOGVVJ_c9UJjoN6/view?usp=sharing"
+        }
+      ],
+      "skills": [
+        {
+          "name": "HTML, CSS",
+          "level": "80%",
+          "description": "熟悉 HTML 標籤和 CSS（SCSS） 語法，可徒手刻響應式網頁。"
+        },
+        {
+          "name": "JavaScript",
+          "level": "70%",
+          "description": "理解核心概念如推升和閉包，也熟悉常用的 ES6 以上的語法。"
+        },
+        {
+          "name": "Vue, Vuex, Vue Router",
+          "level": "70%",
+          "description": "理解其模板語法和 API，對於 Vue2 的 類 MVVM 設計模式有研究過。"
+        },
+        {
+          "name": "React.js, Redux, React Router",
+          "level": "60%",
+          "description": "我的幾項 SPA 專案是用 React 打造，故熟悉其生命週期、JSX 語法和 hooks。"
+        },
+        {
+          "name": "Git",
+          "level": "50%",
+          "description": "使用終端機並搭配 Sourcetree 進行版本控管。開發上會建立分支，並且善用 rebase 指令整理 commit，再經由他人審核才併回主分支。"
+        },
+        {
+          "name": "TypeScript",
+          "level": "40%",
+          "description": "能使用常用的資料型態、類型宣告，以對專案進行靜態型別檢查。"
+        },
+        {
+          "name": "Webpack",
+          "level": "40%",
+          "description": "有能力搭配所需要的 loaders 來啟動前端專案，並透過 Plugins 來優化效能。"
+        },
+        {
+          "name": "Jest, Enzyme",
+          "level": "40%",
+          "description": "能使用 Jest 進行基本單元測試和計算覆蓋率，並配合 Enzyme 將 React.js 轉為 HTML 結構以測試"
+        },
+        {
+          "name": "PHP",
+          "level": "40%",
+          "description": "可以做 API 供前端串接資料，並使用 PDO 與資料庫做連接。"
+        },
+        {
+          "name": "MySQL",
+          "level": "30%",
+          "description": "過去使用 phpMyAdmin 操作，對於 SQL 新、修、刪和複雜的查詢語法有一定的了解。"
+        },
+        {
+          "name": "MongoDB",
+          "level": "20%",
+          "description": "對 NoSQL 和其語法有粗淺認識和短暫操作經驗。"
         }
       ]
     },
@@ -406,28 +389,10 @@
         "img": "work10.png"
       },
       {
-        "title": "我的隊友是 AI",
-        "detail": "為公司合作的新書「我的隊友是 AI」製作的宣傳和銷售網頁，使用到 Bootstrap。",
-        "url": "https://www.ai-sportthings.com/%E6%88%91%E7%9A%84%E9%9A%8A%E5%8F%8B%E6%98%AFAI",
-        "img": "work2.png"
-      },
-      {
         "title": "畢製作品-羅密歐與仙杜瑞拉",
         "detail": "與組員一起製作的解謎體驗網站，使用 jQuery、React、BootStrap等。",
         "url": "https://chite.github.io/dct_project/desktop/hackTool.html",
         "img": "work8.png"
-      },
-      {
-        "title": "醫療 e 點通",
-        "detail": "使用 React 和 Redux 製作的查詢網站，提供使用者查詢雙北的醫療方案。",
-        "url": "https://medicineneeded.000webhostapp.com/",
-        "img": "work3.png"
-      },
-      {
-        "title": "政大鬼故事",
-        "detail": "利用 jQuery 和 PHP 建立的政大鬼故事探索遊戲。",
-        "url": "https://chite.000webhostapp.com/login1.php",
-        "img": "work4.png"
       },
       {
         "title": "我只是個普悠瑪司機",
